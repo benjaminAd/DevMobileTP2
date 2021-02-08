@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exo3</string>
+    <string name="CannotUserSensor">Vous ne pouvez pas utiliser cette application</string>
+</resources>
