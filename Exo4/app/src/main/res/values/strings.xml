@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exo4</string>
+    <string name="textView">Vous ne possédez pas le bon capteur</string>
+</resources>
